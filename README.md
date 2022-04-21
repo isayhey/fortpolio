@@ -1,2 +1,2 @@
 # URL
-## [ljs portfolio](ljs-portfolio.netlify.com)
+## [ljs portfolio](https://ljs-portfolio.netlify.app)
